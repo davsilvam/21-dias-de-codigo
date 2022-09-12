@@ -41,7 +41,9 @@ Este projeto se baseia em um desafio proposto pela *Rocketseat* no qual em um pe
 ### *Dia 7 - Contador*
 *"Desenvolva um contador."*
 
-:link: - *[Link](https://github.com/davsilvam/21diasdecodigo)*
+Abaixo segue o link de um projeto que fiz recentemente.
+
+:link: - *[Link](https://github.com/davsilvam/cronometro)*
 
 ## :rocket: **Desafio - Parte 2**
 ---  -->
