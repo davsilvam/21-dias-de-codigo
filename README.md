@@ -3,7 +3,10 @@
 ## :triangular_ruler: **Projeto**
 Este projeto se baseia em um desafio proposto pela *Rocketseat* no qual em um período de 21 dias serão realizados projetos e adicionados nesse repositório.
 
-## :rocket: **Links e Projetos**
+<h3 align='center'> &#x1F6A7; Projeto em andamento... &#x1F6A7; </h3>
+
+<!-- ## :rocket: **Desafio - Parte 1**
+*[Link para o post do Instagram.](https://www.instagram.com/p/ChTBg1BpLGU/?utm_source=ig_web_copy_link)*
 
 ### *Dia 1 - Repositório com os projetos do desafio*
 *"Crie um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código."*
@@ -39,4 +42,6 @@ Este projeto se baseia em um desafio proposto pela *Rocketseat* no qual em um pe
 *"Desenvolva um contador."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo)*
---- 
+
+## :rocket: **Desafio - Parte 2**
+---  -->
