@@ -19,12 +19,12 @@ Este projeto se baseia em um desafio proposto pela *Rocketseat* no qual em um pe
 
 <h3 align='center'> &#x1F6A7; Atenção! Projeto em andamento... &#x1F6A7; </h3>
 
-<!--  ### *Dia 3 - Botão animado*
+### *Dia 3 - Botão animado*
 *"Crie um botão animado."*
 
-:link: - *[Link](https://github.com/davsilvam/21diasdecodigo)*
+:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/03)*
 
-### *Dia 4 - Calculadora*
+<!--  ### *Dia 4 - Calculadora*
 *"Crie uma calculadora."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo)*
