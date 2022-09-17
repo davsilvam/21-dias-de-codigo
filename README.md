@@ -17,12 +17,12 @@ Este projeto se baseia em um desafio proposto pela *Rocketseat* no qual em um pe
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/02)*
 
-<h3 align='center'> &#x1F6A7; Atenção! Projeto em andamento... &#x1F6A7; </h3>
-
 ### *Dia 3 - Botão animado*
 *"Crie um botão animado."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/03)*
+
+<h3 align='center'> &#x1F6A7; Atenção! Projeto em andamento... &#x1F6A7; </h3>
 
 <!--  ### *Dia 4 - Calculadora*
 *"Crie uma calculadora."*
