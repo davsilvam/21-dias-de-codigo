@@ -10,7 +10,7 @@ Este projeto faz parte o desafio ***21 Dias de Código*** e se baseia em uma ver
 ### *Desktop e Telas Maiores*
 
 <h1 align="center">
-    <img src="img/apresentação-02.gif" style="width: 70%;">
+    <img src="img/Apresentação-02.gif" style="width: 70%;">
 </h1>
 
 ## :rocket: **Funcionalidades do Projeto**
