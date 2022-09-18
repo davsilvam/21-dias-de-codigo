@@ -35,3 +35,6 @@ Tecnologias utilizadas no projeto.
 
 ## :ballon: **Inspiração**
 *[Link para o vídeo de inspiração.](https://www.youtube.com/watch?v=42TShjXR0m0&t=392s)*
+
+## :computer: **Autor**
+Feito com :purple_heart: por [David Silva](https://www.linkedin.com/in/davsilvam/).
