@@ -1,6 +1,6 @@
 # **21 Dias de Código**
 
-## :triangular_ruler: **Projeto**
+## :date: **Projeto**
 Este projeto se baseia em um desafio proposto pela *Rocketseat* no qual em um período de 21 dias serão realizados projetos e adicionados nesse repositório.
 
 ## :rocket: **Desafio - Parte 1**
