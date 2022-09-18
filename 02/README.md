@@ -31,5 +31,7 @@ Tecnologias utilizadas no projeto.
 * Visual Studio Code;
 * Google Fonts.
 
+## :computer: **Autor**
+Feito com :purple_heart: por [David Silva](https://www.linkedin.com/in/davsilvam/).
 
 ---

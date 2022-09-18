@@ -24,4 +24,7 @@ Tecnologias utilizadas no projeto.
 * JavaScript;
 * Visual Studio Code.
 
+## :computer: **Autor**
+Feito com :purple_heart: por [David Silva](https://www.linkedin.com/in/davsilvam/).
+
 ---
