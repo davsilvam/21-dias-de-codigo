@@ -1,6 +1,6 @@
 # **Botão Animado**
 
-## :triangular_ruler: **Projeto**
+## :rainbow: **Projeto**
 Este projeto faz parte o desafio ***21 Dias de Código*** e se baseia em um botão animado estilizado em CSS.
 
 ## :link: **Link**

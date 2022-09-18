@@ -1,6 +1,6 @@
 # **Hello World!**
 
-## :triangular_ruler: **Projeto**
+## :earth_americas: **Projeto**
 Este projeto faz parte o desafio ***21 Dias de Código*** e se baseia em uma versão criativa do *Hello World!*, na qual abordei a temática espacial e uma brincadeira com emojis.
 
 ## :link: **Link**
