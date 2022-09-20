@@ -27,12 +27,12 @@ Este projeto se baseia em um desafio proposto pela *Rocketseat* no qual em um pe
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/04)*
 
-<h3 align='center'> &#x1F6A7; Atenção! Projeto em andamento... &#x1F6A7; </h3>
-
 ### *Dia 5 - Erro 404*
 *"Desenvolva uma página customizada que exiba o erro 404."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/05)*
+
+<h3 align='center'> &#x1F6A7; Atenção! Projeto em andamento... &#x1F6A7; </h3>
 
 <!--  ### *Dia 6 - Efeito glassmorphism*
 *"Crie um card com o efeito glassmorphism."*
