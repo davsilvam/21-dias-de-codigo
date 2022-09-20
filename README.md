@@ -28,12 +28,12 @@ Este projeto se baseia em um desafio proposto pela *Rocketseat* no qual em um pe
 
 <h3 align='center'> &#x1F6A7; Atenção! Projeto em andamento... &#x1F6A7; </h3>
 
-<!-- ### *Dia 5 - Erro 404*
+### *Dia 5 - Erro 404*
 *"Desenvolva uma página customizada que exiba o erro 404."*
 
-:link: - *[Link](https://github.com/davsilvam/21diasdecodigo)*
+:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/05)*
 
-### *Dia 6 - Efeito glassmorphism*
+<!--  ### *Dia 6 - Efeito glassmorphism*
 *"Crie um card com o efeito glassmorphism."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo)*
