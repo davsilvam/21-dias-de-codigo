@@ -32,9 +32,7 @@ Este projeto se baseia em um desafio proposto pela *Rocketseat* no qual em um pe
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/05)*
 
-<h3 align='center'> &#x1F6A7; Atenção! Projeto em andamento... &#x1F6A7; </h3>
-
-<!--  ### *Dia 6 - Efeito glassmorphism*
+### *Dia 6 - Efeito glassmorphism*
 *"Crie um card com o efeito glassmorphism."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo)*
@@ -46,5 +44,10 @@ Abaixo segue o link de um projeto que fiz recentemente.
 
 :link: - *[Link](https://github.com/davsilvam/cronometro)*
 
+<h3 align='center'> &#x1F6A7; Atenção! Projeto em andamento... &#x1F6A7; </h3>
+
+<!-- 
+
 ## :rocket: **Desafio - Parte 2**
----  -->
+
+-->
