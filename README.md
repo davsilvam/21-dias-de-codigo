@@ -35,7 +35,7 @@ Este projeto se baseia em um desafio proposto pela *Rocketseat* no qual em um pe
 ### *Dia 6 - Efeito glassmorphism*
 *"Crie um card com o efeito glassmorphism."*
 
-:link: - *[Link](https://github.com/davsilvam/21diasdecodigo)*
+:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/06)*
 
 ### *Dia 7 - Contador*
 *"Desenvolva um contador."*
