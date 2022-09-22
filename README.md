@@ -17,7 +17,7 @@ Este projeto se baseia em um desafio proposto pela *Rocketseat* no qual em um pe
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/02)*
 
-### *Dia 3 - Botão animado*
+### *Dia 3 - Botão Animado*
 *"Crie um botão animado."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/03)*
@@ -32,7 +32,7 @@ Este projeto se baseia em um desafio proposto pela *Rocketseat* no qual em um pe
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/05)*
 
-### *Dia 6 - Efeito glassmorphism*
+### *Dia 6 - Efeito Glassmorphism*
 *"Crie um card com o efeito glassmorphism."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/06)*
@@ -49,5 +49,41 @@ Abaixo segue o link de um projeto que fiz recentemente.
 <!-- 
 
 ## :rocket: **Desafio - Parte 2**
+*[Link para o post do Instagram.](https://www.instagram.com/p/ChkahuNOLvF/?utm_source=ig_web_copy_link)*
+
+### *Dia 8 - Toogle Tema Escuro/Claro*
+*"Desenvolva um toogle que altere o tema para claro e escuro."*
+
+:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/08)*
+
+### *Dia 9 - Loading*
+*"Crie uma animação loading."*
+
+:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/09)*
+
+### *Dia 10 - Particle.js*
+*"Use a lib Particle.js do Javascript."*
+
+:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/10)*
+
+### *Dia 11 - Formulário de Login*
+*"Crie um layout de um formulário de um login."*
+
+:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/11)*
+
+### *Dia 12 - Galeria de Imagens*
+*"Desenvolva uma galeria de imagens."*
+
+:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/12)*
+
+### *Dia 13 - Menu Responsivo*
+*"Desenvolva um menu responsivo."*
+
+:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/13)*
+
+### *Dia 14 - Quizz*
+*"Crie um formulário de quizzes."*
+
+:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/14)*
 
 -->
