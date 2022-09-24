@@ -46,17 +46,17 @@ Abaixo segue o link de um projeto que fiz recentemente.
 
 <h3 align='center'> &#x1F6A7; Atenção! Projeto em andamento... &#x1F6A7; </h3>
 
-<!-- 
+
 
 ## :rocket: **Desafio - Parte 2**
 *[Link para o post do Instagram.](https://www.instagram.com/p/ChkahuNOLvF/?utm_source=ig_web_copy_link)*
 
-### *Dia 8 - Toogle Tema Escuro/Claro*
+### *Dia 8 - Toogle Tema*
 *"Desenvolva um toogle que altere o tema para claro e escuro."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/08)*
 
-### *Dia 9 - Loading*
+<!--  ### *Dia 9 - Loading*
 *"Crie uma animação loading."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/09)*
