@@ -4,7 +4,7 @@
 Este projeto faz parte o desafio ***21 Dias de Código*** e se baseia em uma pequena página com ícone que ao ser clicado, altera o tema da página.
 
 ## :link: **Link**
-*[Link do projeto.](https://davsilvam.github.io/21diasdecodigo/07/)*
+*[Link do projeto.](https://davsilvam.github.io/21diasdecodigo/08/)*
 
 ## :art: **Visual do Projeto**
 ### *Desktop e Telas Maiores*
