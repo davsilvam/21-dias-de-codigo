@@ -1,10 +1,10 @@
-# **Toogle Tema**
+# **Loading**
 
-## :first_quarter_moon: **Projeto**
-Este projeto faz parte do desafio ***21 Dias de Código*** e se baseia em uma pequena página com ícone que ao ser clicado, altera o tema da página.
+## :hourglass: **Projeto**
+Este projeto faz parte do desafio ***21 Dias de Código*** e se baseia em uma pequena tela de loading animada.
 
 ## :link: **Link**
-*[Link do projeto.](https://davsilvam.github.io/21diasdecodigo/08/)*
+*[Link do projeto.](https://davsilvam.github.io/21diasdecodigo/09/)*
 
 ## :art: **Visual do Projeto**
 ### *Desktop e Telas Maiores*
@@ -15,8 +15,8 @@ Este projeto faz parte do desafio ***21 Dias de Código*** e se baseia em uma pe
 
 ## :rocket: **Funcionalidades do Projeto**
 O projeto conta atualmente com:
-* Alteração do tema entre claro e escuro.
-* Alteração do ícone central dinamicamente.
+* Animação de loading.
+* Mensagem dinâmica.
 
 ## :wrench: **Tecnologias**
 Tecnologias utilizadas no projeto.
@@ -24,7 +24,7 @@ Tecnologias utilizadas no projeto.
 * CSS;
 * JavaScript;
 * Visual Studio Code;
-* Google Material Icons.
+* Google Fonts.
 
 ## :computer: **Autor**
 Feito com :purple_heart: por [David Silva](https://www.linkedin.com/in/davsilvam/).

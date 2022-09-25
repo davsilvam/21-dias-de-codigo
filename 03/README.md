@@ -1,7 +1,7 @@
 # **Botão Animado**
 
 ## :rainbow: **Projeto**
-Este projeto faz parte o desafio ***21 Dias de Código*** e se baseia em um botão animado estilizado em CSS.
+Este projeto faz parte do desafio ***21 Dias de Código*** e se baseia em um botão animado estilizado em CSS.
 
 ## :link: **Link**
 *[Link do projeto.](https://davsilvam.github.io/21diasdecodigo/03/)*

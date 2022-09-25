@@ -53,12 +53,12 @@ Abaixo segue o link de um projeto que fiz recentemente.
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/08)*
 
-<!--  ### *Dia 9 - Loading*
+### *Dia 9 - Loading*
 *"Crie uma animação loading."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/09)*
 
-### *Dia 10 - Particle.js*
+<!-- ### *Dia 10 - Particle.js*
 *"Use a lib Particle.js do Javascript."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/10)*

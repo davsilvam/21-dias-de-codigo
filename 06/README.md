@@ -1,7 +1,7 @@
 # **Glassmorphism**
 
 ## :shoe: **Projeto**
-Este projeto faz parte o desafio ***21 Dias de Código*** e se baseia em uma pequena página com um card de um tênis da Nike com o efeito de *Glassmorphism* em seu fundo.
+Este projeto faz parte do desafio ***21 Dias de Código*** e se baseia em uma pequena página com um card de um tênis da Nike com o efeito de *Glassmorphism* em seu fundo.
 
 ## :link: **Link**
 *[Link do projeto.](https://davsilvam.github.io/21diasdecodigo/06/)*

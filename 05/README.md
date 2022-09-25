@@ -1,7 +1,7 @@
 # **Erro 404**
 
 ## :paw_prints: **Projeto**
-Este projeto faz parte o desafio ***21 Dias de Código*** e se baseia em uma pequena página que apresenta o Erro 404 com uma temática canina.
+Este projeto faz parte do desafio ***21 Dias de Código*** e se baseia em uma pequena página que apresenta o Erro 404 com uma temática canina.
 ## :link: **Link**
 *[Link do projeto.](https://davsilvam.github.io/21diasdecodigo/05/)*
 
