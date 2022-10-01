@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgb(53, 53, 53);
+}
+
+h1 {
+    color: white;
+}
+
+#container {
+    position: relative;
+    padding: 15px;
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.arrow-left,
+.arrow-right {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: auto;
+  bottom: 0;
+  font-size: 20px;
+  line-height: 250px;
+  width: 40px;
+  color: #fff;
+  transition: all 600ms ease-in-out;
+  background: linear-gradient(to left, transparent 0%, black 200%);
+  opacity: 0.1;
+  cursor: pointer;
+  border: none;
+}
+
+.arrow-left:hover,
+.arrow-right:hover {
+  opacity: 1;
+}
+
+.arrow-right {
+  right: 0;
+  left: auto;
+  text-align: right;
+  background: linear-gradient(to right, transparent 0%, black 200%);
+}
+
+#image-wrapper {
+    overflow-x: auto;
+    -ms-overflow-style: none; 
+    scrollbar-width: none; 
+}
+
+#image-wrapper::-webkit-scrollbar {
+    display: none;
+}
+
+#image_carousel {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 30px;
+}
+
+#image_carousel .card {
+    width: 300px;
+    background-color: #222;
+    flex-shrink: 0;
+    opacity: 0.4;
+    transition: .6s ease-in-out all;
+}
+
+#image_carousel .card img {
+    width: 100%;
+}
+
+.card h2 {
+    color: white;
+    font-size: 1em;
+    padding: 10px 20px;
+}
+
+#image_carousel .current_card {
+    opacity: 1;
+    border: 2px solid rgb(255, 255, 50);
+    box-shadow: 2px 3px 4px rgba(3, 3, 3, 0.462);
+}

@@ -68,17 +68,17 @@ Abaixo segue o link de um projeto que fiz recentemente.
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/11)*
 
-<!-- ### *Dia 12 - Galeria de Imagens*
+### *Dia 12 - Galeria de Imagens*
 *"Desenvolva uma galeria de imagens."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/12)*
 
-### *Dia 13 - Menu Responsivo*
+<!-- ### *Dia 13 - Menu Responsivo*
 *"Desenvolva um menu responsivo."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/13)*
 
-### *Dia 14 - Quizz*
+### *Dia 14 - Quiz*
 *"Crie um formulário de quizzes."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/14)*
