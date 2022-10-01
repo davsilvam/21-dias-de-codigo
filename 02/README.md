@@ -19,10 +19,6 @@ O projeto conta atualmente com:
 * Função de recuar para a esquerda ao clicar na *seta para esquerda*;
 * Mensagens ao chegar no destino (:earth_americas:) e ao se afastar.
 
-## :construction: **Futuras atualizações**
-Funcionalidades que poderão ser incluídas em breve no projeto:
-* Implementar responsividade e deixar o programa mais performático.
-
 ## :wrench: **Tecnologias**
 Tecnologias utilizadas no projeto.
 * HTML;
