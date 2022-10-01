@@ -1,6 +1,6 @@
 # **Formulário de Login**
 
-## :umbrella: **Projeto**
+## :clipboard: **Projeto**
 Este projeto faz parte do desafio ***21 Dias de Código*** e se baseia em uma pequena página com um formulário de Login.
 
 ## :link: **Link**
