@@ -58,8 +58,8 @@ Abaixo segue o link de um projeto que fiz recentemente.
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/09)*
 
-### *Dia 10 - Particle.js*
-*"Use a lib Particle.js do Javascript."*
+### *Dia 10 - Particles.js*
+*"Use a lib Particles.js do Javascript."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/10)*
 
