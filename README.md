@@ -8,72 +8,72 @@ Este projeto se baseia em um desafio proposto pela *Rocketseat* no qual em um pe
 ## :rocket: **Desafio - Parte 1**
 *[Link para o post do Instagram.](https://www.instagram.com/p/ChTBg1BpLGU/?utm_source=ig_web_copy_link)*
 
-### *Dia 1 - Repositório com os projetos do desafio*
+### *Dia 1 - Repositório com os projetos do desafio* :bookmark:
 *"Crie um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo)*
 
-### *Dia 2 - Hello World!*
+### *Dia 2 - Hello World!* :earth_americas:
 *"Faça um Hello World customizado com fontes, cores e imagens."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/02)*
 
-### *Dia 3 - Botão Animado*
+### *Dia 3 - Botão Animado* :rainbow:
 *"Crie um botão animado."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/03)*
 
-### *Dia 4 - Calculadora*
+### *Dia 4 - Calculadora* :symbols:
 *"Crie uma calculadora."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/04)*
 
-### *Dia 5 - Erro 404*
+### *Dia 5 - Erro 404* :paw_prints:
 *"Desenvolva uma página customizada que exiba o erro 404."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/05)*
 
-### *Dia 6 - Efeito Glassmorphism*
+### *Dia 6 - Efeito Glassmorphism* :shoe:
 *"Crie um card com o efeito glassmorphism."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/06)*
 
-### *Dia 7 - Contador*
+### *Dia 7 - Contador* :alarm_clock:
 *"Desenvolva um contador."*
 
 Abaixo segue o link de um projeto que fiz recentemente.
 
 :link: - *[Link](https://github.com/davsilvam/cronometro)*
 
-## :rocket: **Desafio - Parte 2**
+## :rocket: **Desafio - Parte 2** 
 *[Link para o post do Instagram.](https://www.instagram.com/p/ChkahuNOLvF/?utm_source=ig_web_copy_link)*
 
-### *Dia 8 - Toogle Tema*
+### *Dia 8 - Toogle Tema* :first_quarter_moon:
 *"Desenvolva um toogle que altere o tema para claro e escuro."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/08)*
 
-### *Dia 9 - Loading*
+### *Dia 9 - Loading* :hourglass:
 *"Crie uma animação loading."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/09)*
 
-### *Dia 10 - Particles.js*
+### *Dia 10 - Particles.js* :umbrella:
 *"Use a lib Particles.js do Javascript."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/10)*
 
-### *Dia 11 - Formulário de Login*
+### *Dia 11 - Formulário de Login* :clipboard:
 *"Crie um layout de um formulário de um login."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/11)*
 
-### *Dia 12 - Galeria de Imagens*
+### *Dia 12 - Galeria de Imagens* :camera:
 *"Desenvolva uma galeria de imagens."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/12)*
 
-### *Dia 13 - Menu Responsivo*
+### *Dia 13 - Menu Responsivo* :hamburger:
 *"Desenvolva um menu responsivo."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/13)*
