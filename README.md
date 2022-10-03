@@ -83,4 +83,44 @@ Abaixo segue o link de um projeto que fiz recentemente.
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/14)*
 
+## :rocket: **Desafio - Parte 3** 
+*[Link para o post do Instagram.](https://www.instagram.com/p/Ch3EOQ0p2sZ/?utm_source=ig_web_copy_link)*
 
+<!-- ### *Dia 15 - E-commerce* (:first_quarter_moon:)
+*"Desenvolva um site que exiba uma vitrine de produtos de um e-commerce fictício (com nome dos produtos, preços e imagens)."*
+
+:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/15)*
+
+### *Dia 16 - Site com API Pública* (:hourglass:)
+*"Desenvolva um site utilizando alguma API pública."*
+
+:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/16)*
+
+### *Dia 17 - Capturar Teclas* (:umbrella:)
+*"Desenvolva um site que capture os eventos do teclado e exiba na tela o evento e a tecla pressionada."*
+
+:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/17)*
+
+### *Dia 18 - Gerador de Senhas* (:clipboard:)
+*"Desenvolva um gerado de senhas aleatórias."*
+
+:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/18)*
+
+### *Dia 19 - Fotos Aleatórias do Unsplash* (:camera:)
+*"Desenvolva um site que gere imagens aleatórias utilizada a API do Unsplash."*
+
+:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/19)*
+
+### *Dia 20 - Emoji Picker* (:hamburger:)
+*"Desenvolva um site de emoji picker. Ao selecionar o emoji, é copiado para a área de transferência."*
+
+:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/20)*
+
+ ### *Dia 21 - Portfólio* (:white_check_mark:)
+*"Desenvolva uma página para ser seu portfólio:"*
+* *Conte sobre você;*
+* *Suas experiências;*
+* *Suas habilidades;*
+* *Inclua no portfólio todos os desafios desenvolvidos durante esses 21 dias.*
+
+:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/21)* -->
