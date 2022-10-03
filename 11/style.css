@@ -126,3 +126,9 @@ form button {
     background-color: #f09927;
     box-shadow: 1px 1px 4px #000000b5;
 }
+
+@media (max-width: 768px) {
+    main {
+        width: 100%;
+    }
+}

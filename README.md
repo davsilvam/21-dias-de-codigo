@@ -78,9 +78,9 @@ Abaixo segue o link de um projeto que fiz recentemente.
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/13)*
 
-<!--  ### *Dia 14 - Quiz*
+ ### *Dia 14 - Quiz* (:white_check_mark:)
 *"Crie um formulário de quizzes."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/14)*
 
--->
+
