@@ -86,12 +86,12 @@ Abaixo segue o link de um projeto que fiz recentemente.
 ## :rocket: **Desafio - Parte 3** 
 *[Link para o post do Instagram.](https://www.instagram.com/p/Ch3EOQ0p2sZ/?utm_source=ig_web_copy_link)*
 
-<!-- ### *Dia 15 - E-commerce* (:first_quarter_moon:)
+### *Dia 15 - E-commerce* (:credit_card:)
 *"Desenvolva um site que exiba uma vitrine de produtos de um e-commerce fictício (com nome dos produtos, preços e imagens)."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/15)*
 
-### *Dia 16 - Site com API Pública* (:hourglass:)
+<!-- ### *Dia 16 - Site com API Pública* (:hourglass:)
 *"Desenvolva um site utilizando alguma API pública."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/16)*
