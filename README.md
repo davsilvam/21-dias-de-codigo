@@ -11,7 +11,8 @@ Este projeto se baseia em um desafio proposto pela *Rocketseat* no qual em um pe
 ### *Dia 1 - Repositório com os projetos do desafio* (:bookmark:)
 *"Crie um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código."*
 
-:link: - *[Link](https://github.com/davsilvam/21diasdecodigo)*
+:link: - *[Link](https://github.com/davsilvam/21diasdecodigo)* |
+:leaves: - *[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:share:6985005565814968320/)*
 
 ### *Dia 2 - Hello World!* (:earth_americas:)
 *"Faça um Hello World customizado com fontes, cores e imagens."*
