@@ -96,12 +96,12 @@ Abaixo segue o link de um projeto que fiz recentemente.
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/16)*
 
-<!-- ### *Dia 17 - Capturar Teclas* (:umbrella:)
+### *Dia 17 - Capturar Teclas* (:computer:)
 *"Desenvolva um site que capture os eventos do teclado e exiba na tela o evento e a tecla pressionada."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/17)*
 
-### *Dia 18 - Gerador de Senhas* (:clipboard:)
+<!-- ### *Dia 18 - Gerador de Senhas* (:clipboard:)
 *"Desenvolva um gerado de senhas aleatórias."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/18)*
