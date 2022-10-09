@@ -91,12 +91,12 @@ Abaixo segue o link de um projeto que fiz recentemente.
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/15)*
 
-<!-- ### *Dia 16 - Site com API Pública* (:hourglass:)
+### *Dia 16 - Site com API Pública* (:smirk_cat:)
 *"Desenvolva um site utilizando alguma API pública."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/16)*
 
-### *Dia 17 - Capturar Teclas* (:umbrella:)
+<!-- ### *Dia 17 - Capturar Teclas* (:umbrella:)
 *"Desenvolva um site que capture os eventos do teclado e exiba na tela o evento e a tecla pressionada."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/17)*
