@@ -10,7 +10,7 @@ Este projeto faz parte do desafio ***21 Dias de Código*** e se baseia em uma pe
 ### *Desktop e Telas Maiores*
 
 <h1 align="center">
-    <img src="img/screenshot.jpg" style="width: 70%;">
+    <img src="img/screenshot.png" style="width: 70%;">
 </h1>
 
 ## :rocket: **Funcionalidades do Projeto**
