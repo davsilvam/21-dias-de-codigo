@@ -25,7 +25,7 @@ Tecnologias utilizadas no projeto.
 * Visual Studio Code;
 * Utilização da biblioteca *[particles.js](https://github.com/VincentGarreau/particles.js/)* e *[do site de demonstração](https://vincentgarreau.com/particles.js/)*.
 
-## :ballon: **Inspiração**
+## :balloon: **Inspiração**
 *[Link para um vídeo que me ajudou a entender a lib.](https://www.youtube.com/watch?v=cUzihD4JBQU)*
 
 ## :computer: **Autor**
