@@ -15,7 +15,7 @@ Este projeto faz parte do desafio ***21 Dias de Código*** e se baseia em uma pe
 
 ## :rocket: **Funcionalidades do Projeto**
 O projeto conta atualmente com:
-* Gifs mudados dinamicamente;
+* Gifs alterados dinamicamente;
 * Botão para carregar outro gif de gatinho.
 
 ## :wrench: **Tecnologias**
