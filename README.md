@@ -101,12 +101,12 @@ Abaixo segue o link de um projeto que fiz recentemente.
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/17)*
 
-<!-- ### *Dia 18 - Gerador de Senhas* (:clipboard:)
+### *Dia 18 - Gerador de Senhas* (:closed_lock_with_key:)
 *"Desenvolva um gerado de senhas aleatórias."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/18)*
 
-### *Dia 19 - Fotos Aleatórias do Unsplash* (:camera:)
+<!-- ### *Dia 19 - Fotos Aleatórias do Unsplash* (:camera:)
 *"Desenvolva um site que gere imagens aleatórias utilizada a API do Unsplash."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/19)*
