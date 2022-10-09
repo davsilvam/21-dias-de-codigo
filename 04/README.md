@@ -33,7 +33,7 @@ Tecnologias utilizadas no projeto.
 * JavaScript;
 * Visual Studio Code.
 
-## :ballon: **Inspiração**
+## :balloon: **Inspiração**
 *[Link para o vídeo de inspiração.](https://www.youtube.com/watch?v=42TShjXR0m0&t=392s)*
 
 ## :computer: **Autor**
