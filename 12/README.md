@@ -28,7 +28,7 @@ Tecnologias utilizadas no projeto.
 * Google Fonts;
 * Visual Studio Code.
 
-## :ballon: **Inspiração**
+## :balloon: **Inspiração**
 *[Link para o vídeo de inspiração.](https://www.youtube.com/watch?v=QAD0K112tlQ)*
 
 ## :computer: **Autor**
