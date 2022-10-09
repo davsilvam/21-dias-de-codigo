@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=17&height=100&section=header&text=21%20Dias%20de%20Código&fontSize=25" />
 
-<!--- <h3 align='center'> &#x1F6A7; Atenção! Projeto em andamento... &#x1F6A7; </h3> --->
+<h3 align='center'> &#x1F6A7; Atenção! Projeto em andamento... &#x1F6A7; </h3>
 
 ## :date: **Projeto**
 Este projeto se baseia em um desafio proposto pela *Rocketseat* no qual em um período de 21 dias serão realizados projetos e adicionados nesse repositório.
