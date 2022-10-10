@@ -30,7 +30,7 @@ Tecnologias utilizadas no projeto.
 * CSS;
 * JavaScript;
 * Google Fonts;
-* *[Unsplash Image API](https://unsplash.com/developers);
+* *[Unsplash Image API](https://unsplash.com/developers)*;
 * Visual Studio Code.
 
 ## :computer: **Autor**
