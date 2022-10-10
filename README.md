@@ -107,12 +107,12 @@ Abaixo segue o link de um projeto que fiz recentemente.
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/18)*
 
-<!-- ### *Dia 19 - Fotos Aleatórias do Unsplash* (:camera:)
+### *Dia 19 - Fotos Aleatórias do Unsplash* (:mount_fuji:)
 *"Desenvolva um site que gere imagens aleatórias utilizada a API do Unsplash."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/19)*
 
-### *Dia 20 - Emoji Picker* (:hamburger:)
+<!-- ### *Dia 20 - Emoji Picker* (:hamburger:)
 *"Desenvolva um site de emoji picker. Ao selecionar o emoji, é copiado para a área de transferência."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/20)*
