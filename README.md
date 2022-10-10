@@ -17,7 +17,8 @@ Este projeto se baseia em um desafio proposto pela *Rocketseat* no qual em um pe
 ### *Dia 2 - Hello World!* (:earth_americas:)
 *"Faça um Hello World customizado com fontes, cores e imagens."*
 
-:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/02)*
+:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/02)* |
+:leaves: - *[Post no Linkedin](https://www.linkedin.com/posts/davsilvam_dia-2-hello-world-opa-aqui-estou-activity-6985373016239009792-It3w?utm_source=share&utm_medium=member_desktop)*
 
 ### *Dia 3 - Botão Animado* (:rainbow:)
 *"Crie um botão animado."*
