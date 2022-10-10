@@ -112,12 +112,12 @@ Abaixo segue o link de um projeto que fiz recentemente.
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/19)*
 
-<!-- ### *Dia 20 - Emoji Picker* (:hamburger:)
+### *Dia 20 - Emoji Picker* (:sunglasses:)
 *"Desenvolva um site de emoji picker. Ao selecionar o emoji, é copiado para a área de transferência."*
 
 :link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/20)*
 
- ### *Dia 21 - Portfólio* (:white_check_mark:)
+<!-- ### *Dia 21 - Portfólio* (:white_check_mark:)
 *"Desenvolva uma página para ser seu portfólio:"*
 * *Conte sobre você;*
 * *Suas experiências;*
