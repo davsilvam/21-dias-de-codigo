@@ -151,3 +151,11 @@ _"Desenvolva um site de emoji picker. Ao selecionar o emoji, é copiado para a �
 Abaixo segue o link para o meu Portfólio, no qual já está incluído o projeto desse desafio.
 
 :link: - *[Link](https://github.com/davsilvam/meu-portfolio)*
+
+## :pencil2: **Análise**
+
+Para mim, esse desafio me ajudou a exercitar as minhas tecnologias, seja de formas que eu já exercitava ou com projetos inéditos para mim, além de muito aprendizado e implementações no meu arsenal de habilidades.
+
+## :computer: **Autor**
+
+Feito com :purple_heart: por [David Silva](https://www.linkedin.com/in/davsilvam/).
