@@ -33,7 +33,8 @@ _"Crie um botão animado."_
 
 _"Crie uma calculadora."_
 
-:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/04)_
+:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/04)_ |
+:leaves: - _[Post no Linkedin](https://www.linkedin.com/posts/davsilvam_dia-4-calculadora-opa-estou-aqui-de-activity-6989364766125244416-Nirv?utm_source=share&utm_medium=member_desktop)_
 
 ### _Dia 5 - Erro 404_ (:paw_prints:)
 
