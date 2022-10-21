@@ -1,128 +1,153 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=17&height=100&section=header&text=21%20Dias%20de%20Código&fontSize=25" />
-
-<h3 align='center'> &#x1F6A7; Atenção! Projeto em andamento... &#x1F6A7; </h3>
+# **21 Dias de Código**
 
 ## :date: **Projeto**
-Este projeto se baseia em um desafio proposto pela *Rocketseat* no qual em um período de 21 dias serão realizados projetos e adicionados nesse repositório.
+
+Este projeto se baseia em um desafio proposto pela _[Rocketseat](https://www.instagram.com/rocketseat_oficial/)_ no qual em um período de 21 dias serão realizados projetos e adicionados nesse repositório.
 
 ## :rocket: **Desafio - Parte 1**
-*[Link para o post do Instagram.](https://www.instagram.com/p/ChTBg1BpLGU/?utm_source=ig_web_copy_link)*
 
-### *Dia 1 - Repositório com os projetos do desafio* (:bookmark:)
-*"Crie um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código."*
+_[Link para o post do Instagram.](https://www.instagram.com/p/ChTBg1BpLGU/?utm_source=ig_web_copy_link)_
 
-:link: - *[Link](https://github.com/davsilvam/21diasdecodigo)* |
-:leaves: - *[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:share:6985005565814968320/)*
+### _Dia 1 - Repositório com os projetos do desafio_ (:bookmark:)
 
-### *Dia 2 - Hello World!* (:earth_americas:)
-*"Faça um Hello World customizado com fontes, cores e imagens."*
+_"Crie um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código."_
 
-:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/02)* |
-:leaves: - *[Post no Linkedin](https://www.linkedin.com/posts/davsilvam_dia-2-hello-world-opa-aqui-estou-activity-6985373016239009792-It3w?utm_source=share&utm_medium=member_desktop)*
+:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo)_ |
+:leaves: - _[Post no Linkedin](https://www.linkedin.com/feed/update/urn:li:share:6985005565814968320/)_
 
-### *Dia 3 - Botão Animado* (:rainbow:)
-*"Crie um botão animado."*
+### _Dia 2 - Hello World!_ (:earth_americas:)
 
-:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/03)*
+_"Faça um Hello World customizado com fontes, cores e imagens."_
 
-### *Dia 4 - Calculadora* (:symbols:)
-*"Crie uma calculadora."*
+:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/02)_ |
+:leaves: - _[Post no Linkedin](https://www.linkedin.com/posts/davsilvam_dia-2-hello-world-opa-aqui-estou-activity-6985373016239009792-It3w?utm_source=share&utm_medium=member_desktop)_
 
-:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/04)*
+### _Dia 3 - Botão Animado_ (:rainbow:)
 
-### *Dia 5 - Erro 404* (:paw_prints:)
-*"Desenvolva uma página customizada que exiba o erro 404."*
+_"Crie um botão animado."_
 
-:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/05)*
+:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/03)_ |
+:leaves: - _[Post no Linkedin](https://www.linkedin.com/posts/davsilvam_dia-3-bot%C3%A3o-animado-opa-estou-aqui-activity-6988239234239246336-yfQ1?utm_source=share&utm_medium=member_desktop)_
 
-### *Dia 6 - Efeito Glassmorphism* (:shoe:)
-*"Crie um card com o efeito glassmorphism."*
+### _Dia 4 - Calculadora_ (:symbols:)
 
-:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/06)*
+_"Crie uma calculadora."_
 
-### *Dia 7 - Contador* (:alarm_clock:)
-*"Desenvolva um contador."*
+:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/04)_
+
+### _Dia 5 - Erro 404_ (:paw_prints:)
+
+_"Desenvolva uma página customizada que exiba o erro 404."_
+
+:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/05)_
+
+### _Dia 6 - Efeito Glassmorphism_ (:shoe:)
+
+_"Crie um card com o efeito glassmorphism."_
+
+:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/06)_
+
+### _Dia 7 - Contador_ (:alarm_clock:)
+
+_"Desenvolva um contador."_
 
 Abaixo segue o link de um projeto que fiz recentemente.
 
-:link: - *[Link](https://github.com/davsilvam/cronometro)*
+:link: - _[Link](https://github.com/davsilvam/cronometro)_
 
-## :rocket: **Desafio - Parte 2** 
-*[Link para o post do Instagram.](https://www.instagram.com/p/ChkahuNOLvF/?utm_source=ig_web_copy_link)*
+## :rocket: **Desafio - Parte 2**
 
-### *Dia 8 - Toogle Tema* (:first_quarter_moon:)
-*"Desenvolva um toogle que altere o tema para claro e escuro."*
+_[Link para o post do Instagram.](https://www.instagram.com/p/ChkahuNOLvF/?utm_source=ig_web_copy_link)_
 
-:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/08)*
+### _Dia 8 - Toogle Tema_ (:first_quarter_moon:)
 
-### *Dia 9 - Loading* (:hourglass:)
-*"Crie uma animação loading."*
+_"Desenvolva um toogle que altere o tema para claro e escuro."_
 
-:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/09)*
+:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/08)_
 
-### *Dia 10 - Particles.js* (:umbrella:)
-*"Use a lib Particles.js do Javascript."*
+### _Dia 9 - Loading_ (:hourglass:)
 
-:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/10)*
+_"Crie uma animação loading."_
 
-### *Dia 11 - Formulário de Login* (:clipboard:)
-*"Crie um layout de um formulário de um login."*
+:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/09)_
 
-:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/11)*
+### _Dia 10 - Particles.js_ (:umbrella:)
 
-### *Dia 12 - Galeria de Imagens* (:camera:)
-*"Desenvolva uma galeria de imagens."*
+_"Use a lib Particles.js do Javascript."_
 
-:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/12)*
+:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/10)_
 
-### *Dia 13 - Menu Responsivo* (:hamburger:)
-*"Desenvolva um menu responsivo."*
+### _Dia 11 - Formulário de Login_ (:clipboard:)
 
-:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/13)*
+_"Crie um layout de um formulário de um login."_
 
- ### *Dia 14 - Quiz* (:white_check_mark:)
-*"Crie um formulário de quizzes."*
+:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/11)_
 
-:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/14)*
+### _Dia 12 - Galeria de Imagens_ (:camera:)
 
-## :rocket: **Desafio - Parte 3** 
-*[Link para o post do Instagram.](https://www.instagram.com/p/Ch3EOQ0p2sZ/?utm_source=ig_web_copy_link)*
+_"Desenvolva uma galeria de imagens."_
 
-### *Dia 15 - E-commerce* (:credit_card:)
-*"Desenvolva um site que exiba uma vitrine de produtos de um e-commerce fictício (com nome dos produtos, preços e imagens)."*
+:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/12)_
 
-:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/15)*
+### _Dia 13 - Menu Responsivo_ (:hamburger:)
 
-### *Dia 16 - Site com API Pública* (:smirk_cat:)
-*"Desenvolva um site utilizando alguma API pública."*
+_"Desenvolva um menu responsivo."_
 
-:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/16)*
+:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/13)_
 
-### *Dia 17 - Capturar Teclas* (:computer:)
-*"Desenvolva um site que capture os eventos do teclado e exiba na tela o evento e a tecla pressionada."*
+### _Dia 14 - Quiz_ (:white_check_mark:)
 
-:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/17)*
+_"Crie um formulário de quizzes."_
 
-### *Dia 18 - Gerador de Senhas* (:closed_lock_with_key:)
-*"Desenvolva um gerado de senhas aleatórias."*
+:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/14)_
 
-:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/18)*
+## :rocket: **Desafio - Parte 3**
 
-### *Dia 19 - Fotos Aleatórias do Unsplash* (:mount_fuji:)
-*"Desenvolva um site que gere imagens aleatórias utilizada a API do Unsplash."*
+_[Link para o post do Instagram.](https://www.instagram.com/p/Ch3EOQ0p2sZ/?utm_source=ig_web_copy_link)_
 
-:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/19)*
+### _Dia 15 - E-commerce_ (:credit_card:)
 
-### *Dia 20 - Emoji Picker* (:sunglasses:)
-*"Desenvolva um site de emoji picker. Ao selecionar o emoji, é copiado para a área de transferência."*
+_"Desenvolva um site que exiba uma vitrine de produtos de um e-commerce fictício (com nome dos produtos, preços e imagens)."_
 
-:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/20)*
+:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/15)_
 
-<!-- ### *Dia 21 - Portfólio* (:white_check_mark:)
+### _Dia 16 - Site com API Pública_ (:smirk_cat:)
+
+_"Desenvolva um site utilizando alguma API pública."_
+
+:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/16)_
+
+### _Dia 17 - Capturar Teclas_ (:computer:)
+
+_"Desenvolva um site que capture os eventos do teclado e exiba na tela o evento e a tecla pressionada."_
+
+:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/17)_
+
+### _Dia 18 - Gerador de Senhas_ (:closed_lock_with_key:)
+
+_"Desenvolva um gerado de senhas aleatórias."_
+
+:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/18)_
+
+### _Dia 19 - Fotos Aleatórias do Unsplash_ (:mount_fuji:)
+
+_"Desenvolva um site que gere imagens aleatórias utilizada a API do Unsplash."_
+
+:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/19)_
+
+### _Dia 20 - Emoji Picker_ (:sunglasses:)
+
+_"Desenvolva um site de emoji picker. Ao selecionar o emoji, é copiado para a área de transferência."_
+
+:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/20)_
+
+### *Dia 21 - Portfólio* (:white_check_mark:)
 *"Desenvolva uma página para ser seu portfólio:"*
 * *Conte sobre você;*
 * *Suas experiências;*
 * *Suas habilidades;*
 * *Inclua no portfólio todos os desafios desenvolvidos durante esses 21 dias.*
 
-:link: - *[Link](https://github.com/davsilvam/21diasdecodigo/tree/master/21)* -->
+Abaixo segue o link para o meu Portfólio, no qual já está incluído o projeto desse desafio.
+
+:link: - *[Link](https://github.com/davsilvam/meu-portfolio)*
