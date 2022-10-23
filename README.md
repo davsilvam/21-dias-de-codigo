@@ -40,7 +40,9 @@ _"Crie uma calculadora."_
 
 _"Desenvolva uma página customizada que exiba o erro 404."_
 
-:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/05)_
+:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/05)_ |
+:leaves: - _[Post no Linkedin](https://www.linkedin.com/posts/davsilvam_dia-5-erro-404-opa-estou-aqui-de-novo-activity-6989986300992884736-seRt?utm_source=share&utm_medium=member_desktop
+)_
 
 ### _Dia 6 - Efeito Glassmorphism_ (:shoe:)
 
