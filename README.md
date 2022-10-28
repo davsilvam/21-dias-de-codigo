@@ -46,9 +46,11 @@ _"Desenvolva uma página customizada que exiba o erro 404."_
 
 ### _Dia 6 - Efeito Glassmorphism_ (:shoe:)
 
-_"Crie um card com o efeito glassmorphism."_
+_"Crie um card com o efeito glassmorphism."_ 
 
-:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/06)_
+:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/06)_ |
+:leaves: - _[Post no Linkedin](
+https://www.linkedin.com/posts/davsilvam_dia-6-glassmorphism-opa-andei-meio-activity-6991818302608060416-BePh?utm_source=share&utm_medium=member_desktop)_
 
 ### _Dia 7 - Contador_ (:alarm_clock:)
 
