@@ -49,8 +49,7 @@ _"Desenvolva uma página customizada que exiba o erro 404."_
 _"Crie um card com o efeito glassmorphism."_ 
 
 :link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/06)_ |
-:leaves: - _[Post no Linkedin](
-https://www.linkedin.com/posts/davsilvam_dia-6-glassmorphism-opa-andei-meio-activity-6991818302608060416-BePh?utm_source=share&utm_medium=member_desktop)_
+:leaves: - _[Post no Linkedin](https://www.linkedin.com/posts/davsilvam_dia-6-glassmorphism-opa-andei-meio-activity-6991818302608060416-BePh?utm_source=share&utm_medium=member_desktop)_
 
 ### _Dia 7 - Contador_ (:alarm_clock:)
 
@@ -58,7 +57,8 @@ _"Desenvolva um contador."_
 
 Abaixo segue o link de um projeto que fiz recentemente.
 
-:link: - _[Link](https://github.com/davsilvam/cronometro)_
+:link: - _[Link](https://github.com/davsilvam/cronometro)_ |
+:leaves: - _[Post no Linkedin](https://www.linkedin.com/posts/davsilvam_dia-7-contador-opa-estou-aqui-de-novo-activity-6993287704587198464-QpBZ?utm_source=share&utm_medium=member_desktop)_
 
 ## :rocket: **Desafio - Parte 2**
 
