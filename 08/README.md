@@ -1,4 +1,4 @@
-# **Toogle Tema**
+# **Mudar Tema**
 
 ## :first_quarter_moon: **Projeto**
 
