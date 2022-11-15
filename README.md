@@ -58,17 +58,18 @@ _"Desenvolva um contador."_
 Abaixo segue o link de um projeto que fiz recentemente.
 
 :link: - _[Link](https://github.com/davsilvam/cronometro)_ |
-:leaves: - _[Post no Linkedin](https://www.linkedin.com/posts/davsilvam_dia-7-contador-opa-estou-aqui-de-novo-activity-6993287704587198464-QpBZ?utm_source=share&utm_medium=member_desktop)_
+:leaves: - _[Post no Linkedin](https://www.linkedin.com/posts/davsilvam_dia-7-mudar-tema-opa-estou-aqui-activity-6998245055387869186-vJJN?utm_source=share&utm_medium=member_desktop)_
 
 ## :rocket: **Desafio - Parte 2**
 
 _[Link para o post do Instagram.](https://www.instagram.com/p/ChkahuNOLvF/?utm_source=ig_web_copy_link)_
 
-### _Dia 8 - Toogle Tema_ (:first_quarter_moon:)
+### _Dia 8 - Mudar Tema_ (:first_quarter_moon:)
 
 _"Desenvolva um toogle que altere o tema para claro e escuro."_
 
-:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/08)_
+:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/08)_ |
+:leaves: - _[Post no Linkedin](https://www.linkedin.com/posts/davsilvam_dia-7-mudar-tema-opa-estou-aqui-activity-6998245055387869186-vJJN?utm_source=share&utm_medium=member_desktop)_
 
 ### _Dia 9 - Loading_ (:hourglass:)
 
