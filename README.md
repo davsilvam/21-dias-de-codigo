@@ -69,13 +69,14 @@ _[Link para o post do Instagram.](https://www.instagram.com/p/ChkahuNOLvF/?utm_s
 _"Desenvolva um toogle que altere o tema para claro e escuro."_
 
 :link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/08)_ |
-:leaves: - _[Post no Linkedin](https://www.linkedin.com/posts/davsilvam_dia-7-mudar-tema-opa-estou-aqui-activity-6998245055387869186-vJJN?utm_source=share&utm_medium=member_desktop)_
+:leaves: - _[Post no Linkedin](https://www.linkedin.com/posts/davsilvam_dia-8-mudar-tema-opa-estou-aqui-activity-6998245055387869186-Fz4e?utm_source=share&utm_medium=member_desktop)_
 
 ### _Dia 9 - Loading_ (:hourglass:)
 
 _"Crie uma animação loading."_
 
-:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/09)_
+:link: - _[Link](https://github.com/davsilvam/21-dias-de-codigo/tree/master/09)_ |
+:leaves: - _[Post no Linkedin]https://www.linkedin.com/posts/davsilvam_dia-9-loading-opa-estou-aqui-de-novo-activity-7001866605550821376-W2ny?utm_source=share&utm_medium=member_desktop)_
 
 ### _Dia 10 - Particles.js_ (:umbrella:)
 
