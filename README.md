@@ -58,7 +58,7 @@ _"Desenvolva um contador."_
 Abaixo segue o link de um projeto que fiz recentemente.
 
 :link: - _[Link](https://github.com/davsilvam/cronometro)_ |
-:leaves: - _[Post no Linkedin](https://www.linkedin.com/posts/davsilvam_dia-7-mudar-tema-opa-estou-aqui-activity-6998245055387869186-vJJN?utm_source=share&utm_medium=member_desktop)_
+:leaves: - _[Post no Linkedin](https://www.linkedin.com/posts/davsilvam_dia-7-contador-opa-estou-aqui-de-novo-activity-6993287704587198464-QpBZ?utm_source=share&utm_medium=member_desktop)_
 
 ## :rocket: **Desafio - Parte 2**
 
